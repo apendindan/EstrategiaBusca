@@ -19,8 +19,6 @@ def send_message():
     bibi_response = response["choices"][0]["message"]
     history.append(bibi_response)
     Imprime_Fala(bibi_response)
-    print(bibi_response)
-
 
 def Imprime_Fala(message):
     if message["role"] == "assistant":

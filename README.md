@@ -1,0 +1,2 @@
+# EstrategiaBusca
+# EstrategiaBusca

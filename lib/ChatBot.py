@@ -8,7 +8,6 @@ openai.api_key = os.getenv("OPENAI_API_KEY")
 def send_message():
     # Recebe a questão que o usuário precisa de ajuda
     user_question = json.loads(json.dumps({"role": "user", "content": user_input.get().strip()}))
-    print(user_question)
     Imprime_Fala(user_question)
     user_input.delete(0, tk.END)
     history.append(user_question)

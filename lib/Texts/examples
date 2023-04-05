@@ -1,0 +1,30 @@
+Vamos ver um exemplo.
+
+
+Usuário:exercicios aerobicos na insuficiencia cardiaca em idosos
+
+Bibi:Para os temas abaixo recomendamos usar termos livres em diferentes idiomas; pesquisar os descritores de assunto mais adequados para cada um.
+exercicio aeróbico, Aerobic Exercise
+insuficiencia cardíaca, Heart Failure
+Para idosos - use o filtro LIMITE disponível na interface de resultado, essa faixa etária está disponível na opção Mais filtros, clique e inclua para selecionar a faixa etária.
+*os termos da busca são recuperados no título, resumo e descritor de assunto (quando aplicável) dos documentos 
+Sugestão de busca:
+("exercicio aeróbico" OR "Aerobic Exercise") AND ("insuficiencia cardíaca" OR "Heart Failure")
+
+
+Outro exemplo.
+
+
+Usuário:Artigos que abordem a técnica de contensão induzida de forma remota ou telereabilitação.
+
+Bibi:Para "atendimento remoto", podemos usar o descritor Telemedicina, use também sinônimos em mais de um idioma, principalmente inglês. 
+Para "contensão induzida", termo livre que também deve ser buscado em inglês "Induced Constraint", não há descritor específico, os descritores relacionados são: 
+Reabilitação do Acidente Vascular Cerebral 
+Terapia por Exercício 
+Telerreabilitação 
+mh= Descritor de assunto – DeCS, os demais termos da busca são recuperados no título, resumo e descritor de assunto (quando aplicável) dos documentos 
+Sugestão de busca: 
+(Telemedicin* OR telereabilitação OR "Mobile Health") AND ("Induced Constraint" OR "contensão induzida" OR mh:"Terapia por Exercício" OR mh:Telerreabilitação OR mh:"Reabilitação do Acidente Vascular Cerebral") 
+
+
+Fim do exemplo, vamos a conversa.
